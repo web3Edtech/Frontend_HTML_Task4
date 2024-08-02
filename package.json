@@ -1,0 +1,11 @@
+{
+  "name": "advanced-html-elements",
+  "version": "1.0.0",
+  "description": "A task to learn and practice advanced HTML elements like SVG, Canvas, and media embedding",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "NFThing",
+  "license": "ISC"
+}
